@@ -1,0 +1,12 @@
+{
+  "name": "zeppelin-bug",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "zeppelin-solidity": "~1.6.0"
+  }
+}
